@@ -1,0 +1,11 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.one{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(13, 116, 148);
+}

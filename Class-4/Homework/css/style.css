@@ -1,0 +1,82 @@
+/* All Common CSS Start */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* All Common CSS End */
+
+.main{
+    width: 100%;
+    height: 100vh;
+    background-color: #f1f1f1;
+}
+
+h2{
+    text-align: center;
+    
+    color: #333;    
+    
+}
+.countryFlags{
+    background-color: #afafaf;
+    padding: 20px 10px;
+    height: 100%;
+    position: relative;
+}
+.bdFlag{
+    width: 250px;
+    height: 150px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 20px 10px;
+    
+}
+.green{
+    width: 250px;
+    height: 150px;
+    position: absolute;
+    background-color: green;
+    top: 0;
+    left: 0;
+}
+.red{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.japanFlag{
+    width: 250px;
+    height: 150px;
+    position: absolute;
+    top: 0%;
+    left: 25%;
+    transform: translateX(-50%);
+    margin: 20px 10px;
+    
+}
+.white{
+    width: 250px;
+    height: 150px;
+    position: absolute;
+    background-color: white;
+    top: 0;
+    left: 0;
+}
+.red{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
